@@ -1,0 +1,8 @@
+for the odd NPM :
+
+1. Write an algorithm to determine a student’s final grade and indicate whether it is passing or failing. The final grade is calculated as the average of four marks.
+2. Draw a flowchart to find factorial of N
+
+for the even NPM:
+1. Draw a flowchart which generates first n items of the Fibonacci series: 0, 1, 1, 2, 3, 5, 8, 13, …
+2. Write an algorithm that reads three numbers and prints the value of the largest number.
